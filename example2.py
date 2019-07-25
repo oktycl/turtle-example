@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 25 02:53:40 2019
 
-@author: oktay
-"""
 import turtle 
 colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow'] 
 pen = turtle.Pen() 

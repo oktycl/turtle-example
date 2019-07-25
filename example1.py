@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 25 01:00:32 2019
-
-@author: oktay
-"""
 
 import turtle
 
